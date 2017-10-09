@@ -1,4 +1,4 @@
-# music_generation
+# music_composition
 **NLP/SLP for Music Generation**
 
 Credit to University of Washington, Seattle for sharing MusicNet Dataset: https://homes.cs.washington.edu/~thickstn/start.html
