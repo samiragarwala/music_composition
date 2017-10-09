@@ -5,4 +5,4 @@ Credit to University of Washington, Seattle for sharing MusicNet Dataset: https:
 
 Credit to Google Deepmind for WaveNet Model: https://arxiv.org/abs/1609.03499
 
-Credit to Quim Llimona for WaveNet Implementation: https://github.com/ibab/tensorflow-wavenet
+Credit to Igor Babuschkin for WaveNet Implementation: https://github.com/ibab/tensorflow-wavenet
